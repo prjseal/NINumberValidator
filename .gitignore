@@ -1,0 +1,8 @@
+/NINumberValidator/bin/Debug
+/NINumberValidator/bin/Release
+/NINumberValidator/obj
+/NINumberValidator.Test/bin/Debug
+/NINumberValidator.Test/bin/Release
+/NINumberValidator.Test/obj
+/.vs
+/TestResults
